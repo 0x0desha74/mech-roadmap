@@ -1,0 +1,79 @@
+بسم الله الرحمن الرحيم
+
+  Hey Hackers! :
+
+  - This is my brief of all roadmaps i have seen with resourses, lets go!
+
+{} what is Cyber Security? => https://bit.ly/whatiscybersec-74
+{} First you shoud know that you shouldn't begin with any advanced cyber security courses before learning some basics (Programming, Linux, Windows, Networks) :)
+
+
+[0] if you are not familier with computers, don't worry this is a mini course that will take you from scratch => https://bit.ly/it-funds74
+
+
+============================================================================
+
+----------------------------
+[1] linux and windows basics
+----------------------------
+	1. Linux Essentials (1-13)vids => https://bit.ly/tech-funds74
+	2. Windows Essensials (14-21)vids => https://bit.ly/tech-funds74 
+[] If you wanna be a dragon in both linux & windows, here is some other detailed resourses
+	- Linux => https://bit.ly/lin-ux74
+	- Windows => https://bit.ly/win-dows74
+
+
+============================================================================
+
+------------------
+[2] Network Basics
+------------------
+	)> Here you have lots of options 
+		1. Network+ (recommended) => https://bit.ly/networkplus-74
+		or
+		 CCNA 
+
+	# Note You just need the basics of  networking, you don't have to finish one of them
+
+
+============================================================================
+
+----------------------
+[2] Progamming Basics
+----------------------
+	 * WEB Languages => Note That you don't have to be a dragon with all this langs, if you can know which is which, follow and understand the code folw, thats enough.
+
+	 	1. How Web Works? => https://bit.ly/howwebwork74
+		2. HTML => https://bit.ly/html-shortcut74
+		3. Js => https://bit.ly/js-74
+		4. PHP => https://bit.ly/php-74
+		5. MYSQL => https://bit.ly/mysql-74 (can be skiped for NOW)
+
+	* Scripting Languages => Honstly this part can be skiped for NOW, but if you want to finish your basics journy first you can learn these two scripting languages 
+
+		1. Python => https://bit.ly/python-74
+		2. Bash Scripting => https://bit.ly/bash-74
+
+============================================================================
+
+=> Congrates you can begin with advanced cyber security courses NOW, lets Goo!
+
+-------------------------------
+Advanced Cyber Security Courses
+-------------------------------
+
+1. eJPT => https://bit.ly/ejpt-74
+	- eJPT labs on tryhackme.com => https://github.com/N1NJ10/eJPT_Prep 
+2. OSCP => https://bit.ly/oscp-74
+	- OSCP labs on tryhackme.com => https://bit.ly/oscp-labs
+---------------
+Labs & Practice
+---------------
+	- tryhackme.com
+ 	- pentesterlab.com
+ 	- hackthebox.com
+ 	- portswigger.net
+
+== if you get this far, believe me you are able to know what is next ==
+
+الحمدلله الذي هدانا لهذا وما كنا لنهتدي لولا أن هدانا الله
